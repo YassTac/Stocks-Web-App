@@ -1,0 +1,17 @@
+requests
+python-dotenv
+openai
+langchain
+flask
+langgraph
+streamlit
+openbb
+uuid
+loguru
+pytest
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
+yfinance
