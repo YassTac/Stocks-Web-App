@@ -21,7 +21,7 @@ from pathlib import Path
 from typing import Any, Callable, Dict, List, Mapping, Optional, Tuple
 
 import pandas as pd
-import plotly.graph_objects as go
+import plotly as go
 import streamlit as st
 import yfinance as yf
 
